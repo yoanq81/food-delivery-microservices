@@ -48,6 +48,6 @@
     <PackageVersion Include="Meziantou.Extensions.Logging.InMemory" Version="1.2.6" />
   </ItemGroup>
   <ItemGroup>
-    <PackageVersion Include="GitVersion.MsBuild" Version="6.3.0" />
+    <PackageVersion Include="GitVersion.MsBuild" Version="6.4.0" />
   </ItemGroup>
 </Project>
